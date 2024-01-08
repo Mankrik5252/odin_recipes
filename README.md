@@ -5,7 +5,7 @@ Project: Recipes
 FINAL LESSON OF HTML COURSE
 **********************************************
 
-Site has 3 pages with chickens recip:
+Site has 3 pages with chickens recipe:
 
 - bourbon_chicken
 - chicken_almondine
